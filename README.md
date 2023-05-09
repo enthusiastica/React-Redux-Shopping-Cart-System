@@ -12,7 +12,7 @@
 
 |  #  | Projects                                                                                                                     | Live Preview                                                        |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 01  | [Redux Shopping Cart)](https://github.com/SamiurRahmanMukul/React-Redux-Shopping-Cart-System/tree/main/react-redux-cart-app) | [Click Here ↗](https://mukul-react-redux-shopping-cart.netlify.app) |
+| 01  | [Redux Shopping Cart)](https://github.com/enthsiastic/React-Redux-Shopping-Cart-System/tree/main/react-redux-cart-app) | [Click Here ↗](https://mukul-react-redux-shopping-cart.netlify.app) |
 
 <!-- INSTALL PROJECT PACKAGES -->
 
@@ -48,4 +48,4 @@ Install the below extensions:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
-                      </> HAPPY PROGRAMMING & DEVELOPING 🤣 </>
+                      </> HAPPY PROGRAMMING & DEVELOPING FROM ENTHSIASTIC🤣 </>
