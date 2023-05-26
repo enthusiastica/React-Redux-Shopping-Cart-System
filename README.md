@@ -12,7 +12,7 @@
 
 |  #  | Projects                                                                                                                     | Live Preview                                                        |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 01  | [Redux Shopping Cart)](https://github.com/enthsiastic/React-Redux-Shopping-Cart-System/tree/main/react-redux-cart-app) | [Click Here ↗](https://mukul-react-redux-shopping-cart.netlify.app) |
+| 01  | [Redux Shopping Cart)](https://github.com/enthusiastica/React-Redux-Shopping-Cart-System/tree/main/react-redux-cart-app) | [Click Here ↗](https://mukul-react-redux-shopping-cart.netlify.app) |
 
 <!-- INSTALL PROJECT PACKAGES -->
 
